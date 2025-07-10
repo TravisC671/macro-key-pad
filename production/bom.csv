@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2, D3, D4, D5, D6, D7, D8",Diode_SOD-123,8,Diode,
+"S1, S2, S3, S4, S5, S6, S7, S8",SW_Kailh_Choc_V1,8,Keyswitch,
+U1,Adafruit_KB2040_SMD,1,kb2040,
